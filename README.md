@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golbargkananisamian/)&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:golbarg.kanani.samian@gmail.com)](golbarg.kanani.samian@gmail.com)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:golbarg.kanani.samian@gmail.com)](mailto:golbarg.kanani.samian@gmail.com)&nbsp;&nbsp;
 
 </div>
 
