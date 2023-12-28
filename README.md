@@ -27,9 +27,9 @@ For more details about my projects and each solution, please look below.
 
 ## Visualization Projects
 
-* ### [KAT'S Cupcake business analysis](https:linke github)
+* ### [KAT'S Cupcake business analysis](https://github.com/GolbargK/cupcake-business-analysis-visualization)
 
-	To help the business.
+	To help a cupcake business to determine their sales trend and customer details.
 
 Determining The Incumbency Advantage Effects in Canadian Parliament (An Updated Study) | MA Paper
 Predictive Analysis of Exercise Habits
