@@ -17,7 +17,7 @@ For more details about my projects and each solution, please look below.
 
 ### Skills
 
-* **Data Collection and Storage:** PostgreSQL.
+* **Database:** PostgreSQL.
 
 * **Data Processing and Analytics:** Python(Pandas, Numpy), R, Jupyter Notebook.
 
