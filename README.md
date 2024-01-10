@@ -31,7 +31,7 @@ For more details about my projects and each solution, please look below.
 
 	To help a cupcake business to determine their sales trend and customer details.
 
-Determining The Incumbency Advantage Effects in Canadian Parliament (An Updated Study) | MA Paper
+<!--Determining The Incumbency Advantage Effects in Canadian Parliament (An Updated Study) | MA Paper
 Predictive Analysis of Exercise Habits
 Investigating Demographic Impact on Working Hours
 Unveiling Patterns in Weekly Alcohol Consumption and Household Size
@@ -40,7 +40,7 @@ Income Inequality Among Indigenous People in Canada
 The Economic Dynamics of Exogamous Marriage in Small-scale Societies
 Examining the Impact of Introducing Charter Schools on Public Schools’ Resources
 Machine Learning Projects
-Created Insightful Power BI dashboards for KAT'S Cupcake company
+Created Insightful Power BI dashboards for KAT'S Cupcake company-->
 
 
 
