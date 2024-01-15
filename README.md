@@ -32,7 +32,7 @@ For more details about my projects and each solution, please look below.
 	To help a cupcake business to determine their sales trend and customer details.
 
 ## Data Analysis Projects
-[Determining The Incumbency Advantage Effects in Canadian Parliament (An Updated Study)](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-)
+* ### [Determining The Incumbency Advantage Effects in Canadian Parliament (An Updated Study)](https://github.com/GolbargK/Determining-the-Incumbency-Advantage-Effects-in-Canadian-Parliament-An-Updated-Study-)
 	Conducted a regression discontinuity approach to determine incumbency advantages in the Canadian Parliament
 
 <!--Predictive Analysis of Exercise Habits
