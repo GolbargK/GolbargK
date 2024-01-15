@@ -19,7 +19,7 @@ For more details about my projects and each solution, please look below.
 
 * **Database:** PostgreSQL.
 
-* **Data Processing and Analytics:** Python(Pandas, Numpy), R, Jupyter Notebook.
+* **Data Processing and Analytics:** Python(Pandas, Numpy), R, Jupyter Notebook, STATA
 
 * **Data Visualization:** Power BI
   
